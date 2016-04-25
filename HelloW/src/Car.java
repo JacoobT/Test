@@ -1,4 +1,5 @@
-
+import adwd;
+import a;
 public class Car {
 	static void main(){
 		
@@ -7,6 +8,9 @@ public class Car {
 	public static void main(String [ ] args)
 	{
 		System.out.print("BU!!!");
-		wdawd
+		
+		wdawd;
+		BOB a = new BOB();
+		
 	}
 }
